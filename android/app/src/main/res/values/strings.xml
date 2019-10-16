@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">InfoNotification</string>
+    <string name="message">메시지</string>
+    <string name="sendSuccess">메시지가성공적으로전송되었습니다.</string>
+    <string name="close">닫기</string>
+    <string-array name="area">
+        <item>서울특별시</item>
+        <item>경기도</item>
+        <item>강원도</item>
+        <item>충청도</item>
+        <item>경상도</item>
+        <item>전라도</item>
+    </string-array>
+    <string-array name="sido">
+        <item>서울전체</item>
+        <item>강남구</item>
+        <item>강동구</item>
+        <item>강북구</item>
+        <item>강서구</item>
+        <item>관악구</item>
+        <item>노원구</item>
+        <item>도봉구</item>
+        <item>마포구</item>
+        <item>서대문구</item>
+        <item>은평구</item>
+        <item>중구</item>
+    </string-array>
+</resources>

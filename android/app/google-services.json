@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "49250810672",
+    "firebase_url": "https://infonotification-ba4cc.firebaseio.com",
+    "project_id": "infonotification-ba4cc",
+    "storage_bucket": "infonotification-ba4cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49250810672:android:0d600faed54d34091466f5",
+        "android_client_info": {
+          "package_name": "net.momamo.send_info"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49250810672-sjuqmdkbadj3d0u4d7i1nnquc5lm1c14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1O_qApapbEZMMhUUvNMqrWjC4Paxz0uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49250810672-sjuqmdkbadj3d0u4d7i1nnquc5lm1c14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
